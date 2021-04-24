@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CLassi\CLassi\bin\Debug\CLassi.exe.config
+C:\Users\User\source\repos\CLassi\CLassi\bin\Debug\CLassi.exe
+C:\Users\User\source\repos\CLassi\CLassi\bin\Debug\CLassi.pdb
+C:\Users\User\source\repos\CLassi\CLassi\obj\Debug\CLassi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CLassi\CLassi\obj\Debug\CLassi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CLassi\CLassi\obj\Debug\CLassi.exe
+C:\Users\User\source\repos\CLassi\CLassi\obj\Debug\CLassi.pdb
